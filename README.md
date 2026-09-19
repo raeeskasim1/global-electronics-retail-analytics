@@ -14,6 +14,8 @@ The project is designed as an internal company analytics case study for a **Sale
 - online delivery performance
 - business changes that deserve further investigation
 
+![Global Electronics Retail Dashboard](dashboard/global_electronics_retail_dashboard.png)
+
 The focus is on practical, business-oriented analysis rather than unnecessary technical complexity.
 
 ---
@@ -104,8 +106,6 @@ A dedicated Date table was created for monthly analysis and time-intelligence me
 ---
 
 ## Dashboard
-
-![Global Electronics Retail Dashboard](dashboard/global_electronics_retail_dashboard.png)
 
 ### Dashboard Sections
 
@@ -201,7 +201,7 @@ Global_Electronics_Retail_Analytics/
 ├── sql/
 │   └── global_electronics_retail_analysis.sql
 └── powerbi/
-    └── Add your .pbix file here
+    └── retail.pbix 
 ```
 
 ---
